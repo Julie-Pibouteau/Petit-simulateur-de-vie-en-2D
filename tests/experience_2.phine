@@ -1,0 +1,12 @@
+#experience 2
+Monde 200 200
+Beauce 0 0 50 50
+Energie Nourriture 80
+Seuil Reproduction 200
+
+# tournent sur place (espèces sédentaires)
+(20 20) 0 7000 | 5 30 5 5 5 5 5 5 | #dans la Beauce
+(130 130) 0 7000 | 5 5 5 5 5 5 5 30 | #hors de la Beauce
+#vont tout droit (espèces nomades)
+(25 25) 5 7000 | 30 30 5 5 5 5 5 30 | #en partant de la Beauce
+(150 150) 2 7000 | 5 5 5 30 30 30 5 5 | #en partant de l'extérieur de la Beauce

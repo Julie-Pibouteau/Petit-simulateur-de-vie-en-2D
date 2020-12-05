@@ -1,0 +1,10 @@
+#experience 3
+Monde 200 200
+Beauce 0 0 50 50
+Energie Nourriture 80
+Seuil Reproduction 200
+
+# tourne en cercles serrés dans la Beauce
+(20 20) 0 7000 | 2 2 30 30 30 2 2 2 |
+# tourne en cercles larges en dehors de la Beauce
+(150 150) 2 200000 | 30 30 2 2 2 2 2 2 | #en partant de l'extérieur de la Beauce
